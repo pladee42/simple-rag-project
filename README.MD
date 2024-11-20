@@ -14,7 +14,6 @@ This project demonstrates the implementation and usage of the Retrieval-Augmente
 - [Usage](#usage)
 - [Examples](#examples)
 - [Access Token for Gemma Model](#access-token-for-gemma-model)
-- [License](#license)
 
 ## Overview
 
