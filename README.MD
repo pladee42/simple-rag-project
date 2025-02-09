@@ -43,8 +43,8 @@ Retrieval-Augmented Generation (RAG) combines information retrieval with languag
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pladee42/rag-from-scratch.git
-   cd rag-from-scratch
+   git clone https://github.com/pladee42/simple-rag-project.git
+   cd simple-rag-project
    ```
 
 2. Install the required Python packages:
